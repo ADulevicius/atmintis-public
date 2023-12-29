@@ -1,5 +1,4 @@
 	# Atmintis
-JAVAU7
 
 Programos veikimo principas:
 
